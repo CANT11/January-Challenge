@@ -12,7 +12,8 @@ function vowelCase(str) {
     })
     .join(""); // Convert array back to string
 }
-console.log(vowelCase("vowelcase"))
+// Testing 
+console.log(vowelCase("vowelcase")) 
 console.log(vowelCase("coding is fun"))
 console.log(vowelCase("HELLO, world!"))
 console.log(vowelCase("git cherry-pick"))
